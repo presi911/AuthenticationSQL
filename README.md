@@ -53,3 +53,4 @@ CREATE TABLE [dbo].[SEC_USER_ROLE] (
 GO
 
 serverinitial.database.windows.net
+Server=tcp:serverinitial.database.windows.net,1433;Initial Catalog=InitialExcersice;Persist Security Info=False;User ID=admin911;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
