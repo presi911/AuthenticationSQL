@@ -51,3 +51,5 @@ CREATE TABLE [dbo].[SEC_USER_ROLE] (
     [ROLEID] int  NOT NULL
 );
 GO
+
+serverinitial.database.windows.net
